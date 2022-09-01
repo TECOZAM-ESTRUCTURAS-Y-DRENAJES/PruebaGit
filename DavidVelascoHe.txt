@@ -1,10 +1,7 @@
 1.Esto es el InitialCommit
-<<<<<<< HEAD
 2.Esto es el segunda linea
 <<<<<<< HEAD
 3.AÑADIDA LINEA 3
 4.LINEA 4 +
 =======
 >>>>>>> parent of 5729f70 (AÑADIDA LINEA 3)
-=======
->>>>>>> parent of 5a4152e (AÑADIDA LINEA 2)
